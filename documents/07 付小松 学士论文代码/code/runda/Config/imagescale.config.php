@@ -1,0 +1,17 @@
+<?php
+
+//用户头像大小 200 X 200
+define("USER_PHOTO_WIDTH", 200);
+define("USER_PHOTO_HEIGHT", 200);
+//轮播图片大小 1320 X 420
+define("CAROUSEL_IMAGE_WIDTH", 1320);
+define("CAROUSEL_IMAGE_HEIGHT", 420);
+//商品图片大小 360 X 300
+define("GOODS_PHOTO_WIDTH", 360);
+define("GOODS_PHOTO_HEIGHT", 300);
+//身份证图片大小 440 X 250
+define("IDCARD_GRAPH_WIDTH", 440);
+define("IDCARD_GRAPH_HEIGHT", 250);
+//营业执照图片大小 1100 X 560
+define("BUSINESS_LICENSE_WIDTH", 1100);
+define("BUSINESS_LICENSE_HEIGHT", 560);

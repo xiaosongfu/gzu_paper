@@ -1,0 +1,16 @@
+.show_box{
+	height: 180px;
+	padding: 60px 400px; 
+	/*padding-bottom: 20px;*/
+	border: 1px solid red;
+	/*margin-bottom: 20px;*/
+}
+.change_box{
+	/*margin-top:20px;*/
+	padding: 20px 400px;
+	/*padding-top: 20px;*/
+	border: 1px solid green;
+}
+.result{
+	display: none;
+}

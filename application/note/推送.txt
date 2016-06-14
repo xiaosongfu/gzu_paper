@@ -1,0 +1,2 @@
+1  OrderDetail allocatedWaterBeare   要推送
+2  OrderDetail waterBearerStart  送水工出发

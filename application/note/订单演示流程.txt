@@ -1,0 +1,23 @@
+1  用户创建订单
+
+2  用户结算订单
+
+3  系统分配送水工：http://runda.com/index.php?controller=OrderAllocate&method=allocateWaterBearer
+
+4  送水工出发 
+http://runda.com/index.php?controller=WaterBearer&method=waterBearerStart&waterbearerid=送水工ID&orderid=订单id
+
+5  送水工更新物流信息
+http://runda.com/index.php?controller=WaterBearer&method=refreshTheLogisticeInformation&orderid=订单id&logisticeinfo=物流信息
+
+6  送水工实时上传位置 --------！！！！！！！！！！！！！！！！！未写
+
+7  配送成功
+http://runda.com/index.php?controller=WaterBearer&method=orderDoneDispatching&orderid=订单id
+
+8  配送失败
+http://runda.com/index.php?controller=WaterBearer&method=orderDispatchingFailed&orderid=订单id&failreason=失败原因
+
+9  用户确认收货
+
+10 这个过程完成

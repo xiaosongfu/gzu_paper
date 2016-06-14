@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+/*主体*/
+.body{
+	margin:6px;
+	/*border: double;*/
+}
+/*  1 导航栏*/
+.nav{
+	margin-bottom:6px;
+	margin-top: 6px;
+	height: 44px;
+	line-height: 18px;
+	font-size: 15px;
+	background-color: #00A3E8;
+	/*border: double;*/
+}
+/*.row{border: double;}*/
+/*.col{border: double;}*/
+/*  2 图片轮播*/
+.photo{
+	width: 100%;
+}
+.photocarousel{
+	margin-bottom:6px;
+	padding:  1px 8px;
+	/*border: double;*/
+}
+.photocarousel img{
+	/*height: 240px;
+	width: 1024px;*/
+}
+.caption{
+	text-align:center;
+}
+.con_bar{
+	font-size: 24px;
+}
+/*  3 商品展示*/
+.goodsshow{
+	margin-bottom:6px;
+	/*border: double;*/
+}
+
+/*  4 商品展示里面的现在购买和加入购物车按扭*/
+.goodsshow .buyorcart{
+	text-align: right;
+}

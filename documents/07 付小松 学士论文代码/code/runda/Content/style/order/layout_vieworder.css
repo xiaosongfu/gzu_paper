@@ -1,0 +1,18 @@
+.body{
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.basicinfo_box{
+	border: 1px dotted green;
+	padding: 12px;
+	font-size: 16px;
+	line-height: 36px;
+}
+.settle_box{
+	text-align: right;
+	padding-right: 40px;
+	border: 2px solid red;
+}
+.basicinfo_box span{
+	font-size: 20px;
+}

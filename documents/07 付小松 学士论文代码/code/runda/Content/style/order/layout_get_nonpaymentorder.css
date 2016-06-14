@@ -1,0 +1,15 @@
+/*.body{
+	border:1px solid red;
+}*/
+/*.img_box{
+	border:2px solid red;
+}*/
+.a_img_box{
+	display:inline;
+	/*border:2px solid red;*/
+	margin-left:6px; 
+}
+img{
+	 width:50px;
+	 height:50px;
+}

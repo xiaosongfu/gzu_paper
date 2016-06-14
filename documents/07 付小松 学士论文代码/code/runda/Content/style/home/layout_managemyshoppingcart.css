@@ -1,0 +1,25 @@
+.body{
+	padding-left: 22px;
+}
+.inline_box{
+	display: inline;
+	margin-left: 40px;
+	/*width: 170px;
+	height: 82px;
+	border: 1px solid red;*/
+}
+.settle{
+	display: inline;
+	text-align: right;
+}
+.result{
+	margin-right: 100px;
+	font-size: 14px;
+}
+.settle_btn{
+	margin-right: 60px;
+}
+.empty_box{
+	margin:30px 400px;
+	font-size: 20px;
+}

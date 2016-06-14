@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+/*主体*/
+.body{
+	width: 100%x;
+	margin-top:20px;
+	margin-bottom:22px;
+}
+/*左边*/
+.left{
+	float: left;
+	width: 44%;
+	/*border:1px solid green;*/
+}
+/*右边*/
+.right{
+	float: right;
+	width: 54%;
+	/*height: 380px;*/
+	/*border:1px solid red;*/
+	/*padding-top: 10px;*/
+	/*margin-bottom: 10px;*/
+}
+.clearFloat{
+	clear: both;
+}

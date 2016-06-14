@@ -1,0 +1,15 @@
+﻿1  同意协议有问题 2015年4月8日22:36:22 ok
+2  解锁  2015年4月11日16:40:16
+3  修改密码 2015年4月11日16:40:19  OK
+4  用户登录写Cookie要加密  OK
+5  用户注册前要检查所有项目是否合法 
+6  要检查手机号
+
+
+
+
+7 商品加默认图片
+8 水站加图片
+9 商品加上架时间
+
+insert into barrelWaterGoods(waterStoreID,waterCate,waterBrand,waterGoodsName,waterGoodsDescript,waterGoodsPrice,waterGoodsInventory,groundingDate,salesVolume) select waterStoreID,waterCate,waterBrand,waterGoodsName,waterGoodsDescript,waterGoodsPrice,waterGoodsInventory,groundingDate,salesVolume from barrelWaterGoods;

@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+.body{
+	margin:8px auto;
+	width: 100%;
+	/*border: double;*/
+}
+.nav_left{
+	float: left;
+	width: 16%;
+	height:966px;
+	/*border: double;*/
+}
+.nav_left .nav_box{
+	width: 80%;
+	margin: 12px auto;
+	padding-bottom: 12px;
+	text-align: center;
+	/*border: double;*/
+}
+.content_right{
+	float: right;
+	width: 80%;
+	height:966px;
+	padding:10px 12px;
+	/*border: double 2px red;*/
+}
+.clearFloat{
+	clear: both;
+}

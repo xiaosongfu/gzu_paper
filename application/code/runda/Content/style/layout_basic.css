@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+/*顶部*/
+/*topBar*/
+.topBar{height:34px;line-height:34px;text-align:right;margin-right:20px;}
+.topBar a:hover{color:#00A3E8;}
+/*logo*/
+.logoBar{height:85px; background-color:#00A3E8;}
+.logo{padding-left:41px; padding-top:13px;}
+
+/*主体*/
+/*.body{
+	margin-top:6px;
+	margin-bottom:6px;
+}*/
+
+/*底部*/
+.footer{text-align:center; background-color:#00A3E8;height:300px; line-height:24px;margin-top:20px;padding-top:100px;padding-bottom:10px; padding:40px 0;clear:both;}
+.footer i{font-style:normal; margin:0 5px; }
+.footer a{color:#000;}
+.web{padding-top:30px;}
+.web img{margin:0 12px;}
+p{font-size:12px;}

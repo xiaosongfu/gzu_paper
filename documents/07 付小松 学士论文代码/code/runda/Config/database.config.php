@@ -1,0 +1,9 @@
+<?php
+//1------数据库------
+ define("DSN","mysql:host=localhost;dbname=runda");
+ define("USER","root");
+ define("PASSWORD","556975");
+//2------省市县---------
+define("Region_DSN","mysql:=localhost;dbname=region");
+define("Region_USER","root");
+define("Region_PASSWORD","556975");

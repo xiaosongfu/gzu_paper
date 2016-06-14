@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+.body{
+	width:600px;
+	font-size:18px;
+}
+.left_info{
+	width:400px;
+	float:left;
+}
+.right_photo{
+	width:180px;
+	height: 180px;
+	float:right;
+	border:1px dotted green;
+}

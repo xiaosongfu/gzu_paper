@@ -1,0 +1,13 @@
+.body{
+	padding-top: 20px;
+	margin-left: 20px;
+	/*border: 1px double red;*/
+}
+.uploadimage{
+	margin-left: 80px;
+	margin-bottom: 30px;
+	padding-left: 24px;
+	padding-top: 8px;
+	width: 433px;
+	border: 1px dotted green;
+}

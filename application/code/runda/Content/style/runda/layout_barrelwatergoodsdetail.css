@@ -1,0 +1,77 @@
+.body{
+
+}
+.photo{
+	float: left;
+	width: 30%;
+	height: 580px;
+	/*border: 1px solid red;*/
+	padding: 4px 6px;
+}
+.params{
+	float: right;
+	width: 66%;
+	height: 580px;
+	/*border: 1px solid red;*/
+	font-size: 13px;
+}
+.descript_comments_afterSS{
+	clear:both;
+}
+
+
+
+*{margin:0px;padding:0px;list-style-type:none;}
+.v_out{
+	width:400px;
+	margin:20px auto;
+	overflow:hidden;
+	/*border: 1px solid green;*/
+}
+.v_show{
+	width:400px;
+	overflow:hidden;
+	position:relative;
+	height:300px;
+	float:left;
+	margin-left: 14px;
+	/*border: 1px solid red;*/
+}
+.v_cont{ 
+	width:400px;
+	position:absolute;
+	left:0px;top:0px;
+	/*border: 1px solid blue;*/
+}
+.v_cont ul{
+	float:left;
+	text-align:left;
+	line-height:50px;
+}
+.v_cont ul li{
+	width:665px;
+	height:300px;
+	/*background:#f8f8f8;*/
+	float:left;
+	margin-top:3px;
+}
+
+/*---圆圈---*/
+.v_out_p{
+	position:relative;
+	overflow:visible
+}
+.circle{
+	position:absolute;
+	left: 40px;
+	top: 360px;}
+.circle li{
+	width:90px;
+	height:60px;
+	float:left;
+	margin-right:10px;
+	background:#ccc
+}
+.circle .circle-cur{
+	background:#fff
+}

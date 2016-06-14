@@ -1,0 +1,11 @@
+.title_box{
+	 text-align: center;
+	 margin-top: 40px;
+	 margin-bottom: 40px;
+}
+.input_box{
+	padding-left: 220px;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	border:1px dotted green;
+}

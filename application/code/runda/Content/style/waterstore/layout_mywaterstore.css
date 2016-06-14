@@ -1,0 +1,11 @@
+.body{
+	padding-left:12px;
+	padding-top:12px;
+}
+.head .logo_box{
+	display: inline;
+	font-size: 28px;
+}
+.head .logo_box .name_box{
+	font-size:22px;
+}
