@@ -1,6 +1,6 @@
 GuiZhou university paper.
 --- 
-## Version number rule
+## [Version number rule](http://semver.org/)
 > 
 Given a version number MAJOR.MINOR.PATCH, increment the:
 * MAJOR version when you make incompatible API changes,
