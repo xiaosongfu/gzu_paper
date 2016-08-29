@@ -14,3 +14,5 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 * 如果只是修复bug，需要更新Z位。
 * 如果是新增了功能，但是向下兼容，需要更新Y位。
 * 如果有大变动，向下不兼容，需要更新X位。
+
+软件开发过程中以0.1.0 版本开始,主版本号表示正式版的形成。[可参考](http://www.tuicool.com/articles/zAVZ32)
